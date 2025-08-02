@@ -1,0 +1,17 @@
+- Learn to use Obsidian template for brain dump
+- Create Note and documentation for life tracker
+- Folder structure
+- Book list recommended from Reysu
+	- The Alamanack of Naval Ravikant
+	- The Millionaire Fastlane
+	- Die with Zero
+	- Steve Jobs: The Biography
+	- How to Get Filthy Rich in Rising Asia
+- Book recommended from Reysu for distraction - Indistractable: How to Control Your Attention
+- Journaling about my perspective of buying house
+- Journaling about my perspective of religious
+- Learn from Johnny Decimal System [documentation](https://johnnydecimal.com/00-09-site-administration/)
+	- How to use this decimal system
+	- How to structure the document of a system
+- Learn [Forever Note System](https://www.youtube.com/@myforevernotes/videos)
+- Learn [Dopamine Journal](https://www.youtube.com/@ollystaniland)
