@@ -1,0 +1,64 @@
+
+### Buying Statement
+- 
+### Games for 5
+- Wonderland's war
+- Lockup
+- Castle Panic
+- Create Comforts
+- Moonrakers
+- Red Rising
+- Cindr
+- Picture Perfect
+- Plunder: A Pirates Life
+- Tiny Towns
+- Arcana Rising
+- Between 2 Castles
+- 7 Wonders: Archictect
+- Ticket to Ride
+- Carcassone
+- Bomb Busters
+- Airline Europe
+- Shamanz
+- QE
+- Stockpile
+- El grande
+- Scythe
+- Cryptid
+- Mind MGMT
+- Broom Service
+- Architects of west kingdom
+- Citadels
+- Snow Tails
+- Cosmic Encounter
+- Captain Sonar
+- Not Alone
+- Castle of Burgundy
+- Fuji Flush
+- Cursed court
+- Modern Art
+- Hansa Teutonica
+- Euphoria
+- Crystal palace
+- Vegas Showdown
+- Quacks of quedlinburg
+- Lords of Waterdeep
+- Raccoon Tycoon
+- MLEM
+- Captain Flip
+- 7 Wonders
+- 
+### Games for couple
+- Sky team
+- Targi
+- Agricola All Creatures Big and Small Big Box
+- Battle Line
+- Carcassonne
+- Troyes
+- Netrunner System Gateway
+- Arkham Horror the Card Game
+- The Castles of Burgundy
+- Hansa Teutonica Big Box
+- Rebel Princess
+- Cascadia
+- 

@@ -1,0 +1,12 @@
+
+---
+- 金線
+- 禪與摩托車
+- Outliers by Malcolm Gladwell
+- The Culture Map: Breaking Through the Invisible Boundaries of Global Business
+- 情緒跟你想的不一樣
+- Hight Output Management
+- Designing Data-Intensive Applications
+- Coding Interview Patterns
+- The first rule of mastery 自我升級第一原理
+- 

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8111559be8b57818",
+        "id": "272167fe06ed54e6",
         "type": "tabs",
         "children": [
           {
-            "id": "5d4a6bf967e356ba",
+            "id": "ee47f043b4aba45a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/simple-daily-template.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "simple-daily-template"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vite",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,37 +162,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44977583ce11e847",
+  "active": "ee47f043b4aba45a",
   "lastOpenFiles": [
-    "Templates/daily-log-template.md",
-    "02_Logs/2025-08/2025-08-02.md",
-    "04_Projects/Vim Fundamentals.md",
-    "00_Inbox/Note Taking.md",
+    "02_Logs/2025-08/2025-08-08.md",
+    "02_Logs/2025-08/2025-08-04.md",
+    "02_Logs/2025-08/2025-08-05.md",
+    "02_Logs/2025-08/2025-08-06.md",
+    "02_Logs/2025-08/2025-08-07.md",
     "00_Inbox/Side Project Ideas.md",
+    "00_Inbox/Note Taking.md",
+    "04_Projects/Vim Fundamentals.md",
+    "Book List.md",
+    "Board Game List.md",
+    "Prompts.md",
+    "Wishlist.md",
+    "Raw.md",
+    "02_Logs/2025-08/2025-08-02.md",
+    "02_Logs/2025-07/2025-07-30.md",
+    "02_Logs/2025-08/2025-08-01.md",
+    "Templates/simple-daily-template.md",
+    "Templates/daily-log-template.md",
     "00_Inbox",
     "04_Projects",
-    "02_Logs/2025-08/2025-08-01.md",
     "02_Logs/2025-07/2025-07-31.md",
     "02_Logs/2025-08",
-    "02_Logs/2025-07/2025-07-30.md",
     "02_Logs/2025-07/2025-07-29.md",
     "02_Logs/2025-07/2025-07-28.md",
     "Untitled.canvas",
-    "Templates/simple-daily-template.md",
     "README.md",
     "Related Note.md",
     "2025-07-29.md",
     "2025-07-29.md",
     "Templates/Daily Log.md",
-    "Daily Note Template.md",
     "02_Logs/2025-07",
-    "daily/2025-07-29.md",
     "Attachments",
     "Templates",
     "04_Projects",
     "03_Indexes",
     "02_Logs",
-    "01_Notes",
-    "Welcome.md"
+    "01_Notes"
   ]
 }
