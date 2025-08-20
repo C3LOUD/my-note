@@ -1,3 +1,5 @@
+
+---
 - Learn to use Obsidian template for brain dump
 - Create Note and documentation for life tracker
 - Folder structure
